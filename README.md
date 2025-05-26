@@ -48,7 +48,7 @@ The Loans Prediction Project leverages various machine learning algorithms to pr
 ```
 loans-pred/
 ├── datasets/           # Raw data
-├── main.py             # Entry point for training and evaluation
+├── app.py             # Entry point for training and evaluation
 ├── requirements.txt    # Python dependencies
 └── README.md           # Project documentation
 ```
