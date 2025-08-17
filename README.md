@@ -1,6 +1,7 @@
 # Loans Prediction Project
 
 This project aims to build a machine learning model to predict loan approvals based on applicant data.
+Note: This is not an my original code.
 
 ## Table of Contents
 
